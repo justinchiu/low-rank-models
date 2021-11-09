@@ -1,7 +1,7 @@
 # Low-Rank PCFG (LPCFG) for Language Modeling
 
 This repo provides instructions for reproducing our LPCFG results in
-``Low-Rank Constraints for Fast Inference in Structured Models''.
+`Low-Rank Constraints for Fast Inference in Structured Models`.
 Note that our repo is based on [compound-pcfg](https://github.com/harvardnlp/compound-pcfg/) and [cpcfg](https://github.com/zhaoyanpeng/cpcfg) (Kim et al 2019, [Compound Probabilistic Context-Free Grammars for Grammar Induction](https://www.aclweb.org/anthology/P19-1228)).
 
 ## Dependencies
