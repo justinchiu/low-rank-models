@@ -1,6 +1,8 @@
-# Linearized HSMM (LHSMM) for Video Modeling
+# Low-Rank HSMM (LHSMM) for Video Modeling
 
-This repo provides instructions for reproducing our LHSMM results in ``Linearized Structured Models''. Note that our repo is based on [action-segmentation](https://github.com/dpfried/action-segmentation) (Fried et al. 2020, [Learning to Segment Actions from Observation and Narration](https://arxiv.org/abs/2005.03684)).
+This repo provides instructions for reproducing our LHSMM results in
+``Low-Rank Cosntraints for Fast Inference in Structured Models''.
+Note that our repo is based on [action-segmentation](https://github.com/dpfried/action-segmentation) (Fried et al. 2020, [Learning to Segment Actions from Observation and Narration](https://arxiv.org/abs/2005.03684)).
 
 
 ## Dependencies
